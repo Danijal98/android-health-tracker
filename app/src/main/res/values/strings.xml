@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">AndroidHealthTracker</string>
+
+    <!-- Common -->
+    <string name="bpm">bpm</string>
+    <string name="percentage_sign">%</string>
+    <string name="average_value">Average: %1$s</string>
+    <string name="min_value">Min: %1$s</string>
+    <string name="max_value">Max: %1$s</string>
+    <string name="retry">Retry</string>
+    <string name="no_data">No data to show!</string>
+    <string name="load_failed">Data failed to load!</string>
+    <string name="unknown_error">Unknown error!</string>
+    <string name="bluetooth_permission_missing">Bluetooth permission is missing</string>
+    <string name="bluetooth_grant_permission">Grant Bluetooth permission</string>
+    <string name="bluetooth_turned_off">Bluetooth is turned off</string>
+    <string name="bluetooth_turn_on">Turn on Bluetooth</string>
+    <string name="bluetooth_turn_on_explanation">Please enable Bluetooth to continue scanning.</string>
+    <string name="scanning_error">Scanning Error!</string>
+    <string name="ok">Ok</string>
+    <string name="success">Success</string>
+    <string name="failure">Failure</string>
+    <string name="save_success">Successfully saved!</string>
+    <string name="save_fail">Saving failed!</string>
+    <string name="save">Save</string>
+
+    <!-- Home screen -->
+    <string name="home">Home</string>
+    <string name="heart_rate">Heart rate</string>
+    <string name="oxygen_saturation">Oxygen saturation</string>
+
+    <!-- History screen -->
+    <string name="history">History</string>
+    <string name="recorded_data_time">Recorded data: %1$s</string>
+    <string name="heart_rate_value">Heart rate: %1$s</string>
+    <string name="oxygen_saturation_value">Oxygen saturation: %1$s</string>
+    <string name="clear_history">Clear history</string>
+    <string name="history_cleared">History cleared</string>
+
+    <!-- Bluetooth scanning -->
+    <string name="bluetooth_scanning">Bluetooth Scanning</string>
+    <string name="start_scanning">Start scanning</string>
+    <string name="stop_scanning">Stop scanning</string>
+    <string name="scanned_device_name">Name: %1$s</string>
+    <string name="scanned_device_address">Address: %1$s</string>
+
+    <!-- Bluetooth data collecting -->
+    <string name="bluetooth_data_collect_title">Device: %1$s</string>
+    <string name="collecting_error">Collecting error!</string>
+    <string name="collect_data">Collect data</string>
+</resources>

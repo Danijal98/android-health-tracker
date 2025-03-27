@@ -1,0 +1,72 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Gradle files
+.gradle/
+build/
+**/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Keystore files (security!)
+*.jks
+*.keystore
+
+# Kotlin/Java class files
+*.class
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Android Studio Navigation Editor temp files
+.navigation/
+
+# Crashlytics / Firebase
+crashlytics-build.properties
+fabric.properties
+
+# ndk build
+obj/
+
+# Jetpack Compose compiler-generated files
+.compose-cache/
+.kotlinc/
+
+# Files for linting and inspection
+lint/reports/
+lint/intermediates/
+
+# Gradle cache
+.cxx/
+.gradle/
+buildSrc/.gradle/
+
+# Misc
+*.hprof
+captures/
+output.json
+
+# Ignore generated folders in .idea
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Mac-specific
+*.swp
+*.swo
